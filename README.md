@@ -59,14 +59,20 @@
 
 * Deepal S07; проверено на прошивке 4.2.1;
 * компьютер с [Deepal Installer](https://github.com/deepaltools/deepal-installer-releases)
-  версии 1.4 или новее.
+  версии 1.4 или новее — для первой установки.
 
 ## Как поставить
 
-**Через [Deepal Installer](https://github.com/deepaltools/deepal-installer-releases/releases/latest) — одной кнопкой.**
+**В первый раз — только через [Deepal Installer](https://github.com/deepaltools/deepal-installer-releases/releases/latest) 1.4.**
 Подключите машину и нажмите **«Установить Deepal Keyboard»**. Программа поставит
 клавиатуру, включит её, выберет по умолчанию и выдаст разрешение, которое не даёт
 китайской клавиатуре возвращаться после сна. Каждый шаг виден в окне.
+
+Почему именно так: это разрешение выдаётся только с компьютера, в самой машине его
+выдать негде. При первой установке из Deepal Store его не будет.
+
+**Дальше — через [Deepal Store](https://github.com/deepaltools/deepal-store-releases).**
+Он сам покажет новую версию и обновит, разрешение и настройки при этом сохранятся.
 
 Клавиатура ставится **рядом** со штатной, а не вместо неё: штатная никуда не девается.
 
@@ -82,7 +88,7 @@
 
 ### Если ставили по-другому
 
-Скачали APK со страницы [Releases](https://github.com/deepaltools/deepal-keyboard-releases/releases/latest)
+Поставили из Deepal Store или скачали APK со страницы [Releases](https://github.com/deepaltools/deepal-keyboard-releases/releases/latest)
 и поставили сами — откройте Deepal Keyboard в машине и нажмите **«Подключить»**: включите
 клавиатуру в списке и выберите её.
 
