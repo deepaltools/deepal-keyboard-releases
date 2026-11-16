@@ -71,7 +71,7 @@
 
 ## Что нужно
 
-* Deepal S07; проверено на прошивке 4.2.1;
+* Deepal S07 с прошивкой 4.0.0, 4.0.1, 4.1.1 или 4.2.1;
 * компьютер с [Deepal Installer](https://github.com/deepaltools/deepal-installer-releases)
   версии 1.4 или новее — для первой установки.
 
